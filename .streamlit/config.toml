@@ -1,0 +1,23 @@
+[theme]
+# Colors
+primaryColor = "#1E88E5"  # A professional blue for primary buttons and highlights
+backgroundColor = "#FAFAFA"  # Very light gray for the background, easy on the eyes
+secondaryBackgroundColor = "#FFFFFF"  # Pure white for cards and sidebar
+textColor = "#212121"  # Dark gray text for optimal readability
+font = "sans serif"  # Clean and professional font
+
+# Layout
+[server]
+headless = true
+port = 8501  # Default Streamlit port
+enableCORS = false
+
+[layout]
+# Wide mode to utilize horizontal space
+wideMode = true
+# Center alignment of content for better focus
+centered = true
+
+[sidebar]
+# Subtle gray to make sidebar distinct but not distracting
+backgroundColor = "#F5F5F5"

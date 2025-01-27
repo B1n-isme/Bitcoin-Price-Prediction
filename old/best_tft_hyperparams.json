@@ -1,0 +1,1 @@
+{"look_back": 7, "num_heads": 4, "head_dim": 16, "feed_forward_dim": 128, "dropout_rate": 0.1, "num_layers": 2, "activation": "relu", "n_steps_ahead": 3}

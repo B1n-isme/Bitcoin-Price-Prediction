@@ -1,0 +1,282 @@
+{
+    "google_trends_bitcoin": {
+        "column": "google_trends_bitcoin",
+        "order": [
+            2,
+            0,
+            2
+        ],
+        "seasonal_order": [
+            0,
+            0,
+            2,
+            12
+        ]
+    },
+    "active_addresses_blockchain": {
+        "column": "active_addresses_blockchain",
+        "order": [
+            3,
+            1,
+            3
+        ],
+        "seasonal_order": [
+            2,
+            0,
+            0,
+            12
+        ]
+    },
+    "hash_rate_blockchain": {
+        "column": "hash_rate_blockchain",
+        "order": [
+            3,
+            1,
+            3
+        ],
+        "seasonal_order": [
+            1,
+            0,
+            0,
+            12
+        ]
+    },
+    "miner_revenue_blockchain": {
+        "column": "miner_revenue_blockchain",
+        "order": [
+            3,
+            1,
+            1
+        ],
+        "seasonal_order": [
+            1,
+            0,
+            1,
+            12
+        ]
+    },
+    "Gold_Close": {
+        "column": "Gold_Close",
+        "order": [
+            0,
+            1,
+            1
+        ],
+        "seasonal_order": [
+            2,
+            0,
+            2,
+            12
+        ]
+    },
+    "Oil_Close": {
+        "column": "Oil_Close",
+        "order": [
+            1,
+            1,
+            1
+        ],
+        "seasonal_order": [
+            0,
+            0,
+            1,
+            12
+        ]
+    },
+    "DJI": {
+        "column": "DJI",
+        "order": [
+            2,
+            1,
+            0
+        ],
+        "seasonal_order": [
+            1,
+            0,
+            1,
+            12
+        ]
+    },
+    "GSPC": {
+        "column": "GSPC",
+        "order": [
+            3,
+            1,
+            2
+        ],
+        "seasonal_order": [
+            0,
+            0,
+            2,
+            12
+        ]
+    },
+    "IXIC": {
+        "column": "IXIC",
+        "order": [
+            0,
+            1,
+            1
+        ],
+        "seasonal_order": [
+            0,
+            0,
+            0,
+            12
+        ]
+    },
+    "NYSE FANG+": {
+        "column": "NYSE FANG+",
+        "order": [
+            1,
+            1,
+            3
+        ],
+        "seasonal_order": [
+            1,
+            0,
+            1,
+            12
+        ]
+    },
+    "ARK Innovation ETF": {
+        "column": "ARK Innovation ETF",
+        "order": [
+            0,
+            1,
+            0
+        ],
+        "seasonal_order": [
+            0,
+            0,
+            0,
+            12
+        ]
+    },
+    "CBOE Volatility Index": {
+        "column": "CBOE Volatility Index",
+        "order": [
+            1,
+            1,
+            2
+        ],
+        "seasonal_order": [
+            0,
+            0,
+            1,
+            12
+        ]
+    },
+    "iShares MSCI Emerging Markets ETF": {
+        "column": "iShares MSCI Emerging Markets ETF",
+        "order": [
+            1,
+            1,
+            0
+        ],
+        "seasonal_order": [
+            0,
+            0,
+            0,
+            12
+        ]
+    },
+    "Shanghai Composite Index": {
+        "column": "Shanghai Composite Index",
+        "order": [
+            2,
+            1,
+            2
+        ],
+        "seasonal_order": [
+            0,
+            0,
+            1,
+            12
+        ]
+    },
+    "USD Index (DXY)": {
+        "column": "USD Index (DXY)",
+        "order": [
+            2,
+            1,
+            2
+        ],
+        "seasonal_order": [
+            1,
+            0,
+            1,
+            12
+        ]
+    },
+    "EUR to USD Exchange Rate": {
+        "column": "EUR to USD Exchange Rate",
+        "order": [
+            0,
+            1,
+            0
+        ],
+        "seasonal_order": [
+            0,
+            0,
+            0,
+            12
+        ]
+    },
+    "btc_close": {
+        "column": "btc_close",
+        "order": [
+            2,
+            1,
+            1
+        ],
+        "seasonal_order": [
+            2,
+            0,
+            2,
+            12
+        ]
+    },
+    "High": {
+        "column": "High",
+        "order": [
+            1,
+            1,
+            0
+        ],
+        "seasonal_order": [
+            0,
+            0,
+            0,
+            12
+        ]
+    },
+    "Low": {
+        "column": "Low",
+        "order": [
+            2,
+            1,
+            2
+        ],
+        "seasonal_order": [
+            2,
+            0,
+            2,
+            12
+        ]
+    },
+    "Volume": {
+        "column": "Volume",
+        "order": [
+            0,
+            1,
+            2
+        ],
+        "seasonal_order": [
+            1,
+            0,
+            2,
+            12
+        ]
+    }
+}

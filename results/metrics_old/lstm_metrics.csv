@@ -1,0 +1,6 @@
+Model_Type,RMSE,MAE,MAPE,Best params
+LSTM,0.14753001695329615,0.10858048237018021,50.01338860691001,"{'batch_size': 16, 'dropout': 0.3, 'learning_rate': 0.001, 'units': 150}"
+BiLSTM,0.12126540064916899,0.09156666603013718,144.77911891455997,"{'batch_size': 16, 'dropout': 0.4, 'learning_rate': 0.001, 'units': 100}"
+Attention-LSTM,0.14444690947392413,0.1064837388617392,72.43860339259031,"{'batch_size': 16, 'dropout': 0.2, 'learning_rate': 0.001, 'units': 150}"
+Attention-BiLSTM,0.12629676246939647,0.09838785331222412,100.75559977236294,"{'batch_size': 16, 'dropout': 0.3, 'learning_rate': 0.001, 'units': 150}"
+Ensemble-LSTM,0.11123769248440574,0.08383313759206462,67.38772886485577,N/A (Ensemble)
